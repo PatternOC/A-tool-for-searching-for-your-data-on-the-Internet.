@@ -1,0 +1,1 @@
+To use the tool fully and accurately, open any text editor and write the instructions at the beginning of the code.
